@@ -1,10 +1,10 @@
 [submodule "ModulesCore"]
 	path = Runtime/ModulesFramework
-	url = https://github.com/JackLite/ModulesFramework.git
+	url = https://unity.package:kM8DVLcdZJ@gitlab.justmoby.com/packages/ModulesFramework.git
 	branch = unity_branch
 [submodule "ModulesFrameworkUnity"]
 	path = Runtime/ModulesFrameworkUnity
-	url = https://github.com/JackLite/ModulesFrameworkUnity.git
+	url = https://unity.package:kM8DVLcdZJ@gitlab.justmoby.com/packages/ModulesFrameworkUnity.git
 	branch = main
 [submodule "Runtime/MFHooks"]
 	path = Runtime/MFHooks
